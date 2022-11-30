@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/eltonkong/static/css/main.6ab948fb.css",
-    "main.js": "/eltonkong/static/js/main.c33cb512.js",
-    "static/media/weather-app.png": "/eltonkong/static/media/weather-app.759353f5262f7ad060cf.png",
-    "static/media/profile.jpg": "/eltonkong/static/media/profile.9df00dbd846e52a2bd3c.jpg",
-    "static/media/anime-heardle.png": "/eltonkong/static/media/anime-heardle.4f97445e00e15a48d5cf.png",
-    "index.html": "/eltonkong/index.html",
-    "main.6ab948fb.css.map": "/eltonkong/static/css/main.6ab948fb.css.map",
-    "main.c33cb512.js.map": "/eltonkong/static/js/main.c33cb512.js.map"
+    "main.css": "/static/css/main.6ab948fb.css",
+    "main.js": "/static/js/main.017d36fb.js",
+    "static/media/weather-app.png": "/static/media/weather-app.759353f5262f7ad060cf.png",
+    "static/media/profile.jpg": "/static/media/profile.9df00dbd846e52a2bd3c.jpg",
+    "static/media/anime-heardle.png": "/static/media/anime-heardle.4f97445e00e15a48d5cf.png",
+    "index.html": "/index.html",
+    "main.6ab948fb.css.map": "/static/css/main.6ab948fb.css.map",
+    "main.017d36fb.js.map": "/static/js/main.017d36fb.js.map"
   },
   "entrypoints": [
     "static/css/main.6ab948fb.css",
-    "static/js/main.c33cb512.js"
+    "static/js/main.017d36fb.js"
   ]
 }
