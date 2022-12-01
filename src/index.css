@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@100&family=Mitr:wght@200&display=swap');
+
+.heading-one {
+  font-family: 'Advent Pro', sans-serif
+}
+
+.heading-two {
+  font-family: 'Mitr', sans-serif
+}
+
+.name-size {
+  font-size: 100px;
+}
+
+.backColor {
+  background-color:rgb(188, 189, 190)
+}
