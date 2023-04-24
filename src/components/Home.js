@@ -24,7 +24,7 @@ export default function Home() {
             viewport={{once: true}}
             className='w-1/2 m-auto mt-20 flex-col pt-16 pb-48'>
                 <h2 className='text-5xl text-center mb-5 font-bold heading-one '> About me</h2>
-                <p className='text-4xl pt-5 border-t-2 border-black heading-two text-center'>I am currently pursuing a degree in electrical engineering at Carleton University. I enjoy programming and am currently learning the ins and outs of full stack development. Please check my projects for some of the work I have done so far!</p>
+                <p className='text-4xl pt-5 border-t-2 border-black heading-two text-center'>I am currently pursuing a degree in Computer Science at Carleton University. I enjoy programming and am currently learning the ins and outs of full stack development. Please check my projects for some of the work I have done so far!</p>
             </motion.div>
         </div>
     )
